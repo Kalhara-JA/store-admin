@@ -1,5 +1,18 @@
 
 
+## [1.0.0](https://github.com/Kalhara-JA/store-admin/compare/0.2.0...1.0.0) (2023-11-13)
+
+
+### ⚠ BREAKING CHANGES
+
+* **api:** POST /api/stores
+
+### Features
+
+* **api:** implement POST endpoint for creating a new store ([3c6684d](https://github.com/Kalhara-JA/store-admin/commit/3c6684d56a490675b3a942fcc4e00f8076f18e51))
+* **database:** create model Store ([2b7674c](https://github.com/Kalhara-JA/store-admin/commit/2b7674cace8c44a070e993b51d94698aa0b5ab6e))
+* **provider:** add toast-provider & install axios ([812e1a7](https://github.com/Kalhara-JA/store-admin/commit/812e1a7616725a399d34edb1eea28316ec7e800e))
+
 ## 0.2.0 (2023-11-12)
 
 
